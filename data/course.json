@@ -1,0 +1,60 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ]
+  ],
+  "legacy_uid": "1177e9ef-100b-11d9-451f-fcb5d26f184d",
+  "instructors": {
+    "content": [
+      "0528de4d-7881-6e61-492b-c1af2ccf08b9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "8540b1e3-46a9-c7bf-c83e-92555d8e6a1b",
+    "website": "21a-230j-the-contemporary-american-family-spring-2004"
+  },
+  "course_title": "The Contemporary American Family",
+  "hide_download": true,
+  "course_description": "We begin by considering briefly the evolution of the family, its cross-cultural variability, and its history in the West. We next examine how the family is currently defined in the U.S., discussing different views about what families should look like.\u00a0Class and ethnic variability and the effects of changing gender roles are discussed in this section. We next look at sexuality, traditional and non-traditional marriage, parenting, divorce, family violence, family economics, poverty, and family policy.\u00a0Controversial issues dealt with include day care, welfare policy, and the \"Family Values\" debate.\n",
+  "department_numbers": [
+    "21A",
+    "WGS"
+  ],
+  "extra_course_numbers": "WGS.456J",
+  "primary_course_number": "21A.230J",
+  "course_image_thumbnail": {
+    "content": "7f97caf1-ebf6-fffe-6d88-a01e26221323",
+    "website": "21a-230j-the-contemporary-american-family-spring-2004"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Exams",
+    "Written Assignments"
+  ],
+  "site_uid": "34337cf8-602d-4447-8077-20e73f52c3e0",
+  "site_short_id": "21a.230j-spring-2004",
+  "site_url_path": "courses/21a-230j-the-contemporary-american-family-spring-2004",
+  "title": "Course Metadata"
+}

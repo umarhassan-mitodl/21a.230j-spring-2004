@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding Defination of the
 file: /courses/21a-230j-the-contemporary-american-family-spring-2004/d2f01a46b8bced097f22d3c3adbd0d93_MIT21A_230JS04_defiiiieth.pdf
 file_size: 93576
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource contains the information regarding economic issues a
 file: /courses/21a-230j-the-contemporary-american-family-spring-2004/f0c3ccacde1e1bd35a209001830136e7_MIT21A_230JS04_21contz.pdf
 file_size: 60969
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

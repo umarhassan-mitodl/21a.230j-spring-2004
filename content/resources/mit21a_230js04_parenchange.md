@@ -4,8 +4,6 @@ description: 'This resource contains the information regarding Parenting: Change
 file: /courses/21a-230j-the-contemporary-american-family-spring-2004/69d5aa4f1968b469d5914a9a50af1de5_MIT21A_230JS04_parenchange.pdf
 file_size: 80805
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: This resource contains the information regarding Violence in the Fa
 file: /courses/21a-230j-the-contemporary-american-family-spring-2004/2cdbed8147cc90628923a408cc86bbec_MIT21A_230JS04_violence.pdf
 file_size: 87639
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
